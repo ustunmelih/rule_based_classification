@@ -35,4 +35,3 @@ An iOS user."
 - **AGE:** Customer's age
 
 
-# rule_based_classification
